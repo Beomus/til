@@ -1,11 +1,4 @@
-# Today I learn
+# Today I learned
 
-> Collection of TILs.
-
-## Categories
-
-* [Python](#python)
-
-### Python
-
-* [Unpack nested lists](python/snippets.md)
+> Collection of TILs but they're so infrequent so it's more of TWIL (this week i
+> learned)
